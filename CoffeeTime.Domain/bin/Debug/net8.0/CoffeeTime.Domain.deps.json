@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoffeeTime.Domain/1.0.0": {
+        "runtime": {
+          "CoffeeTime.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeeTime.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
