@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "45FPBYE+aG56utit5ZIYVvPyYFZyVkIqRMbC3xqVYuxGk8m43Y8b1h8E9btlC5ppndcEpgTlZfK2noov3Toqlw==",
+  "dgSpecHash": "Tuz9wQXaWIy+ecx2ChApBROUpXsQ5n+mFR90Jc0zvL0LGjocw7hNx/JSw4/0TEXvTNZ9lXgoZgFvO5YlQyFb0Q==",
   "success": true,
-  "projectFilePath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/CoffeeTime.Domain.Mediator.csproj",
+  "projectFilePath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/CoffeeTime.Domain.Mediator.csproj",
   "expectedPackageFiles": [
     "/Users/larissaximenes/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/larissaximenes/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

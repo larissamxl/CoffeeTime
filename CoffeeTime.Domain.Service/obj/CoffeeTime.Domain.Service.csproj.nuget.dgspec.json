@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj": {}
+    "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj": {}
   },
   "projects": {
-    "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj": {
+    "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj",
+        "projectUniqueName": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj",
         "projectName": "CoffeeTime.Domain.Service",
-        "projectPath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj",
+        "projectPath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/CoffeeTime.Domain.Service.csproj",
         "packagesPath": "/Users/larissaximenes/.nuget/packages/",
-        "outputPath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/",
+        "outputPath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/larissaximenes/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj": {
-                "projectPath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj"
+              "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj": {
+                "projectPath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj": {
+    "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
+        "projectUniqueName": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
         "projectName": "CoffeeTime.Domain",
-        "projectPath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
+        "projectPath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
         "packagesPath": "/Users/larissaximenes/.nuget/packages/",
-        "outputPath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/",
+        "outputPath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/larissaximenes/.nuget/NuGet/NuGet.Config"

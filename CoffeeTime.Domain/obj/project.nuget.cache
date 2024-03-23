@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YiAaHcx41Fn5BWhhjpfNrVCCMdmBC7dHFghAN1YlejwtozyzD2VKhSPx/f92KPI87W9q/dckBkMQ7/i86t9igQ==",
+  "dgSpecHash": "7lIPXcpTZpOuDOzEdjv1wNuDSdkTzEKrDKn4+mQ3A5wVfrCxnj10KQe9ZClNDlrHZvuyWri3bc3JndDnjPyD4A==",
   "success": true,
-  "projectFilePath": "/Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
+  "projectFilePath": "/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/CoffeeTime.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

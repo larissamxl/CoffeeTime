@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nK142FxMy8JoUKu2wbb2VYbnHI7kAGRfFbRt6s4T+Jc=",
+  "Source": "CoffeTime.WebApi",
+  "BasePath": "_content/CoffeTime.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

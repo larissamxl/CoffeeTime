@@ -9,3 +9,14 @@
 /Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/refint/CoffeeTime.Domain.dll
 /Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.pdb
 /Users/larissaximenes/Documents/Projetos/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/ref/CoffeeTime.Domain.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/bin/Debug/net8.0/CoffeeTime.Domain.deps.json
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/bin/Debug/net8.0/CoffeeTime.Domain.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/bin/Debug/net8.0/CoffeeTime.Domain.pdb
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.AssemblyInfoInputs.cache
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.AssemblyInfo.cs
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.csproj.CoreCompileInputs.cache
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/refint/CoffeeTime.Domain.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.pdb
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/ref/CoffeeTime.Domain.dll

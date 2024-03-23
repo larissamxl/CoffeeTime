@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{01D1AF0D-7A13-4588-B391-8C17ED8FA382}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeTime.WebApi", "CoffeTime.WebApi\CoffeTime.WebApi.csproj", "{01D1AF0D-7A13-4588-B391-8C17ED8FA382}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeTime.Domain", "CoffeeTime.Domain\CoffeeTime.Domain.csproj", "{C9C7A88F-19BE-4FBA-ACC2-20615B26138A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeTime.API", "CoffeeTime.API\CoffeeTime.API.csproj", "{BF3520DE-0D8A-4106-AABD-90C7B886263B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeTime.Domain.Mediator", "CoffeeTime.Domain.Mediator\CoffeeTime.Domain.Mediator.csproj", "{E082106D-C923-4188-B27F-43BCEEC25273}"
 EndProject
@@ -24,10 +22,6 @@ Global
 		{C9C7A88F-19BE-4FBA-ACC2-20615B26138A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9C7A88F-19BE-4FBA-ACC2-20615B26138A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9C7A88F-19BE-4FBA-ACC2-20615B26138A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BF3520DE-0D8A-4106-AABD-90C7B886263B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF3520DE-0D8A-4106-AABD-90C7B886263B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF3520DE-0D8A-4106-AABD-90C7B886263B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF3520DE-0D8A-4106-AABD-90C7B886263B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E082106D-C923-4188-B27F-43BCEEC25273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E082106D-C923-4188-B27F-43BCEEC25273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E082106D-C923-4188-B27F-43BCEEC25273}.Release|Any CPU.ActiveCfg = Release|Any CPU
