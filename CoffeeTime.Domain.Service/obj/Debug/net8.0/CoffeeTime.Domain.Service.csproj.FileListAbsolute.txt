@@ -28,3 +28,4 @@
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/Debug/net8.0/refint/CoffeeTime.Domain.Service.dll
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/Debug/net8.0/CoffeeTime.Domain.Service.pdb
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/Debug/net8.0/ref/CoffeeTime.Domain.Service.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Service/obj/Debug/net8.0/CoffeeTime.Domain.Service.sourcelink.json

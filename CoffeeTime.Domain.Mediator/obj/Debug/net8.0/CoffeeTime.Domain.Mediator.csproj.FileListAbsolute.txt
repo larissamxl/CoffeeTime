@@ -32,3 +32,4 @@
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/obj/Debug/net8.0/refint/CoffeeTime.Domain.Mediator.dll
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/obj/Debug/net8.0/CoffeeTime.Domain.Mediator.pdb
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/obj/Debug/net8.0/ref/CoffeeTime.Domain.Mediator.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain.Mediator/obj/Debug/net8.0/CoffeeTime.Domain.Mediator.sourcelink.json

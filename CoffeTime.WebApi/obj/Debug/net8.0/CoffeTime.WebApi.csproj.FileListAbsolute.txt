@@ -92,3 +92,4 @@
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeTime.WebApi/obj/Debug/net8.0/CoffeTime.WebApi.pdb
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeTime.WebApi/obj/Debug/net8.0/CoffeTime.WebApi.genruntimeconfig.cache
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeTime.WebApi/obj/Debug/net8.0/ref/CoffeTime.WebApi.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeTime.WebApi/obj/Debug/net8.0/CoffeTime.WebApi.sourcelink.json

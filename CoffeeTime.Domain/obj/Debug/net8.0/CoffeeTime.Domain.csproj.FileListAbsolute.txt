@@ -20,3 +20,4 @@
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/refint/CoffeeTime.Domain.dll
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.pdb
 /Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/ref/CoffeeTime.Domain.dll
+/Users/larissaximenes/Documents/CoffeeTime/CoffeeTime/CoffeeTime.Domain/obj/Debug/net8.0/CoffeeTime.Domain.sourcelink.json
