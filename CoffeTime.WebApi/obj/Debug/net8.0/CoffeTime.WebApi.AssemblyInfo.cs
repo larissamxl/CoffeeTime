@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeTime.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f7faa0dfd49d95207ba42503003df225a605c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83e7d308612644728159b4437cb48ff2a87ae05")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeTime.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeTime.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

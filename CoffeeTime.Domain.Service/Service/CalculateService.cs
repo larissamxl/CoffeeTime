@@ -50,6 +50,11 @@ public class CalculateService : ICalculateService
             
             foreach (var coffeeConsumption in contract)
             {
+                if (!coffeeQuantity.ContainsKey(coffeeConsumption.Code))
+                {
+                    throw new Exception("unidentified coffee");
+                }
+
                 var remainingQuantity = CalculateDecay(coffeeQuantity[$"{coffeeConsumption.Code}"],
                     coffeeConsumption.Time, decayConstant);
                 sum += remainingQuantity;
@@ -76,7 +81,6 @@ public class CalculateService : ICalculateService
         catch (Exception ex)
         {
             logger.LogError(ex, $"{ex.Message}");
-            //throw new NotImplementedException();
             return null;
         }
     }
